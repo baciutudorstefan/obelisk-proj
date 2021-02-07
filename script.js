@@ -1,4 +1,4 @@
-gsap.to('.fsection', { delay: 1, duration: 5, opacity: 1 });
+// gsap.to('.fsection', { delay: 1, duration: 5, opacity: 1 });
 
 let scene, camera, renderer, stars, starGeo;
 
